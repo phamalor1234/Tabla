@@ -1,9 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/phamalor1234/Tabla/main/strudel.json",
-  "tablaclose1": ["90_TablaClose_02_239_SP.wav"],
-  "tablaclose2": ["90_TablaClose_04_239_SP.wav"],
-  "tablaclose3": ["80_TablaClose_05_239_SP.wav"],
-  "tablalcose4": ["70_TablaClose_04_239_SP.wav"],
-  "tablafull1": ["60_TablaFull_05_239_SP.wav"],
-  "tablafull2": ["80_TablaFull_06_239_SP.wav"]
+  "tablaclose1": "90_TablaClose_02_239_SP.wav",
+  "tablaclose2": "90_TablaClose_04_239_SP.wav",
+  "tablaclose3": "80_TablaClose_05_239_SP.wav",
+  "tablalcose4": "70_TablaClose_04_239_SP.wav",
+  "tablafull1": "60_TablaFull_05_239_SP.wav",
+  "tablafull2": "80_TablaFull_06_239_SP.wav"
 }
