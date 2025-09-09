@@ -1,4 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/phamalor1234/Tabla/main/",
-  "tablaclose": ["90_TablaClose_02_239_SP.wav","90_TablaClose_04_239_SP.wav","80_TablaClose_05_239_SP.wav","70_TablaClose_04_239_SP.wav"]
+  "tablaclose1": ["90_TablaClose_02_239_SP.wav"],
+  "tablaclose2": ["90_TablaClose_04_239_SP.wav"],
+  "tablaclose3": ["80_TablaClose_05_239_SP.wav"],
+  "tablaclose4": ["70_TablaClose_04_239_SP.wav"]
 }
