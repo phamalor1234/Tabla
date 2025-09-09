@@ -1,9 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/phamalor1234/Tabla/main",
-  "tablaclose1": "90_TablaClose_02_239_SP.wav",
-  "tablaclose2": "90_TablaClose_04_239_SP.wav",
-  "tablaclose3": "80_TablaClose_05_239_SP.wav",
-  "tablaclose4": "70_TablaClose_04_239_SP.wav",
-  "tablafull1": "60_TablaFull_05_239_SP.wav",
-  "tablafull1": "80_TablaFull_06_239_SP.wav"
+  "tablaclose1": "tabla/90_TablaClose_02_239_SP.wav",
+  "tablaclose2": "tabla/90_TablaClose_04_239_SP.wav",
+  "tablaclose3": "tabla/80_TablaClose_05_239_SP.wav",
+  "tablaclose4": "tabla/70_TablaClose_04_239_SP.wav",
+  "tablafull1": "tabla/60_TablaFull_05_239_SP.wav",
+  "tablafull1": "tabla/80_TablaFull_06_239_SP.wav"
 }
